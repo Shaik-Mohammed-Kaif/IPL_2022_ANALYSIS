@@ -1,4 +1,3 @@
-# IPL_2022_ANALYSIS
 # IPL 2022 Analysis 📊🏏
 
 ## Overview
